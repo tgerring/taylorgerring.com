@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+p, ul {
+  color: #5E6063;
+  font-family: Helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 22px;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: #5E6063;
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(94,96,99,0.3);
+}
+
+a:hover {
+  color: #EA9E33;
+  border-bottom: 1px solid rgba(234,158,51,1);
+}
+
+#about {
+  width: 360px;
+  padding: 0 0 0 150px;
+  margin: 50px 50px 0 auto !important;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+samp {
+  font-size: 80%;
+}
